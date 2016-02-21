@@ -1,2 +1,2 @@
 # SaasDrive
-A SaaS Drive implementation
+A POC for SaaS Drive implementation.
